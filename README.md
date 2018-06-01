@@ -1,5 +1,6 @@
 # MSP-EXP432P401R
 SimpleLink™ MSP432P401R LaunchPad™ Development Kit
+
 http://www.ti.com/tool/MSP-EXP432P401R
 
 ## SimpleLink MSP432 Software Development Kit (SDK)
